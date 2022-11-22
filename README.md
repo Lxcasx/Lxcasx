@@ -3,15 +3,23 @@
 </div>
 
 <div id="badges" align="center">
-    <img src="https://komarev.com/ghpvc/?username=Lxcasx&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=lxcasx&label=Profile%20views&color=0e75b6&style=flat" alt="lxcasx" />
 </div>
 
 <div align="center">
     <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+        Hi, I'm Lucas Heinschke 
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 </div>
+
+<h3 align="center">I am currently studying computer science at the HWR in Berlin.</h3>
+
+<br/>
+
+
+- 🔭 I’m currently working on [Notenapp](https://www.notenapp.com) (Co-Creator)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -26,6 +34,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" **alt="Go" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 
 ### :fire: My Stats :
 
